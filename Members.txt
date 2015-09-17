@@ -16,9 +16,9 @@ Role in project: Programmer
 
 Preferred branch of engineering: mechanical
 
-TEst
 
 MEMBER 3 GOH TONG WEI
+
 Brief introduction
 
 Role in project: Member
@@ -26,10 +26,9 @@ Role in project: Member
 Preferred branch of engineering: chemical
 
 MEMBER 4 CHOO WENXI
-<<<<<<< HEAD
 
 Brief introduction
 
-=======
-DAMN SON
->>>>>>> master
+Role in project: Member
+
+Preferred branch of engineering: Chemical
