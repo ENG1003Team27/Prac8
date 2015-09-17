@@ -10,19 +10,11 @@ Preferred branch of engineering: ( Civil )
 
 MEMBER 2 ONG JIAN WERN
 
-<<<<<<< HEAD
 I HATE GITHUB BUT LIKE PIES
 
 Role In Project: Programmer
 
 Preferred branch of engineering: Mechanical
-=======
-I Like Pies!!!
-
-Role in project: Programmer
-
-Preferred branch of engineering: mechanical
->>>>>>> master
 
 MEMBER 3 GOH TONG WEI
 Brief introduction
