@@ -2,11 +2,34 @@ LIST OF MEMBERS FOR TEAM 27
 
 MEMBER 1 LOH WUI JIN
 
+Brieft Introduction
+
+Role in project : ( Team leader )
+
+Preferred branch of engineering: ( Civil )
+
 MEMBER 2 ONG JIAN WERN
 
+I Like Pies!!!
+
+Role in project: Programmer
+
+Preferred branch of engineering: mechanical
+
+TEst
+
 MEMBER 3 GOH TONG WEI
+Brief introduction
+
+Role in project: Member
+
+Preferred branch of engineering: chemical
 
 MEMBER 4 CHOO WENXI
+<<<<<<< HEAD
 
 Brief introduction
 
+=======
+DAMN SON
+>>>>>>> master
